@@ -1,8 +1,7 @@
 # NodeAPI
 ### Getting started:  
-git clone git@github.com:Stridek/NodeAPI.git  
+
 Copy .env.example and rename to .env  
-Setup a mongoDB account if you don't already have one.  
 
 Edit contents of .env file for your environment  
 
