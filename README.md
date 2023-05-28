@@ -4,7 +4,7 @@
 Copy .env.example and rename to .env  
 
 Edit contents of .env file for your environment  
-
+DON'T FORGET: change the username, password, and database name for the DB_URL.
 
 Also edit the port here:
 package.json scripts :8 and :9 (Also change the name in this file)
